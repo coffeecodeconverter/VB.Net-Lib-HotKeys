@@ -20,6 +20,9 @@ This is a lightweight, self-contained module + UI system that lets you:
 
 ---
 
+<img width="459" height="661" alt="image" src="https://github.com/user-attachments/assets/72e24cfa-9cbf-4957-abb8-fda062e1fac7" />
+
+
 ## 🚀 Features
 
 ✅ Global hotkey support (system-wide, even when app is not focused)  
