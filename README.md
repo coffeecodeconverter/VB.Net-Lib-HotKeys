@@ -26,7 +26,7 @@ This is a lightweight, self-contained module + UI system that lets you:
 ## 🚀 Features
 
 ✅ Global hotkey support (system-wide, even when app is not focused)  
-✅ Supports modifiers: `Ctrl`, `Alt`, `Shift` (Win key optional with small tweak)  
+✅ Supports modifiers: `Ctrl`, `Alt`, `Shift`
 ✅ Visual manager form with:
   - Function list
   - Key/modifier pickers
